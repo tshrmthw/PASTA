@@ -1,0 +1,20 @@
+"hotel.jpg","['/t/tower 184' '/b/bridge 31' '/h/hotel/outdoor 98' '/a/amusement_park 4'
+ '/i/inn/outdoor 104']"
+"ski.jpg","['/s/ski_slope 169' '/s/ski_resort 168' '/v/volcano 197'
+ '/m/mountain_snowy 122' '/m/mountain 121']"
+"lake.jpg","['/r/residential_neighborhood 151' '/c/castle 41' '/a/amphitheater 3'
+ '/d/dock 65' '/s/sky 170']"
+"construction.jpg","['/c/construction_site 52' '/r/railroad_track 148' '/t/train_railway 185'
+ '/t/train_station/platform 191' '/w/water_tower 199']"
+"cityex.jpg","['/p/plaza 143' '/c/courtyard 57' '/f/fountain 81' '/c/crosswalk 60'
+ '/a/alley 2']"
+"buildingex.jpg","['/r/residential_neighborhood 151' '/m/mansion 115' '/h/hospital 94'
+ '/a/apartment_building/outdoor 13' '/c/courthouse 56']"
+"street.jpg","['/c/chalet 43' '/a/alley 2' '/t/train_station/platform 191'
+ '/r/residential_neighborhood 151' '/m/motel 120']"
+"arctic.jpg","['/i/iceberg 100' '/o/ocean 128' '/h/harbor 90' '/c/coast 47'
+ '/i/islet 102']"
+"marina.jpg","['/h/harbor 90' '/d/dock 65' '/b/bayou 22' '/r/river 156'
+ '/c/construction_site 52']"
+"sceneex.jpg","['/s/sky 170' '/v/valley 193' '/h/hot_spring 96' '/m/marsh 116'
+ '/f/field/wild 83']"
